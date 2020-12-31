@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head> <link rel="stylesheet" href="s2.css"> <title>  Birthday Gift </title>   </head>
 
